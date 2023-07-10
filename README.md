@@ -16,5 +16,29 @@ Use Arcana Developer Dashboard, register the app and obtain Arcana Network Clien
 * Get User and account information, check login status, available login options
 * Issue Web3 wallet operations such as add/switch networks and more for authenticated users, via the default embedded, non-custodia Arcana wallet UI or programmatically
 
+## Git References for Submodules
+
+If you wish to use these examples, use the git commands for repos with submodules. You can clone this repo using the command:
+
+```sh
+git clone --recurse-submodules https://github.com/arcana-network/auth-examples.git
+```
+
+Fetch latest updates in the example `sample-auth-cognito`:
+
+```sh
+git submodule update --remote sample-auth-cognito
+```
+
+Update the changes in all the submodules in the main project:
+
+```sh
+git submodule update --init --recursive
+```
+ 
+See these references for more details:
+1.  https://git-scm.com/book/en/v2/Git-Tools-Submodules
+2. https://github.blog/2016-02-01-working-with-submodules/
+
 ## Build and Deploy
-Refer to the README.txt file in each example for specific instructions.
+To build and deploy individual samples, refer to the README.txt file in each example for specific instructions. Note that the default port is 3000 for some and 1234 for others.

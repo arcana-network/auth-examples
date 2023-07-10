@@ -1,0 +1,27 @@
+[submodule "sample-auth-cognito"]
+	path = sample-auth-cognito
+	url = https://github.com/shaloo/sample-auth-cognito.git
+[submodule "sample-auth-social-login"]
+	path = sample-auth-social-login
+	url = https://github.com/shaloo/sample-auth-social-login.git
+[submodule "sample-auth-firebase"]
+	path = sample-auth-firebase
+	url = https://github.com/shaloo/sample-auth-firebase.git
+[submodule "sample-auth-web3-react"]
+	path = sample-auth-web3-react
+	url = https://github.com/shaloo/sample-auth-web3-react.git
+[submodule "sample-auth-react"]
+	path = sample-auth-react
+	url = https://github.com/shaloo/sample-auth-react.git
+[submodule "sample-auth-nextjs"]
+	path = sample-auth-nextjs
+	url = https://github.com/shaloo/sample-auth-nextjs.git
+[submodule "sample-auth-html-css-js"]
+	path = sample-auth-html-css-js
+	url = https://github.com/shaloo/sample-auth-html-css-js.git
+[submodule "sample-auth-wagmi"]
+	path = sample-auth-wagmi
+	url = https://github.com/shaloo/sample-auth-wagmi.git
+[submodule "sample-auth-rainbowkit"]
+	path = sample-auth-rainbowkit
+	url = https://github.com/shaloo/sample-auth-rainbowkit.git

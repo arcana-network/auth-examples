@@ -37,3 +37,6 @@
 [submodule "sample-auth-react-native"]
 	path = sample-auth-react-native
 	url = https://github.com/shaloo/sample-auth-react-native.git
+[submodule "sample-auth-unity"]
+	path = sample-auth-unity
+	url = https://github.com/shaloo/sample-auth-unity

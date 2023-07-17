@@ -43,3 +43,6 @@
 [submodule "sample-auth-rainbow-viem"]
 	path = sample-auth-rainbow-viem
 	url = https://github.com/shaloo/sample-auth-rainbow-viem.git
+[submodule "sample-auth-wagmi-viem"]
+	path = sample-auth-wagmi-viem
+	url = https://github.com/shaloo/sample-auth-wagmi-viem.git

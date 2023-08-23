@@ -28,9 +28,6 @@
 [submodule "sample-auth-vue"]
 	path = sample-auth-vue
 	url = https://github.com/shaloo/sample-auth-vue
-[submodule "sample-auth-core"]
-	path = sample-auth-core
-	url = https://github.com/shaloo/sample-auth-core.git
 [submodule "sample-auth-flutter"]
 	path = sample-auth-flutter
 	url = https://github.com/shaloo/sample-auth-flutter.git

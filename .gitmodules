@@ -47,3 +47,4 @@
 [submodule "sample-auth-core"]
 	path = sample-auth-core
 	url = https://github.com/shaloo/sample-auth-core.git
+	branch = main

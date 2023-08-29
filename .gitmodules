@@ -26,6 +26,7 @@
 [submodule "sample-auth-rainbowkit"]
 	path = sample-auth-rainbowkit
 	url = https://github.com/shaloo/sample-auth-rainbowkit.git
+	branch = main
 [submodule "sample-auth-vue"]
 	path = sample-auth-vue
 	url = https://github.com/shaloo/sample-auth-vue

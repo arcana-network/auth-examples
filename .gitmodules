@@ -20,6 +20,7 @@
 [submodule "sample-auth-html-css-js"]
 	path = sample-auth-html-css-js
 	url = https://github.com/shaloo/sample-auth-html-css-js.git
+	branch = main
 [submodule "sample-auth-wagmi"]
 	path = sample-auth-wagmi
 	url = https://github.com/shaloo/sample-auth-wagmi.git

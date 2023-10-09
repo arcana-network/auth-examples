@@ -14,6 +14,7 @@
 [submodule "sample-auth-react"]
 	path = sample-auth-react
 	url = https://github.com/shaloo/sample-auth-react.git
+	branch = main
 [submodule "sample-auth-nextjs"]
 	path = sample-auth-nextjs
 	url = https://github.com/shaloo/sample-auth-nextjs.git

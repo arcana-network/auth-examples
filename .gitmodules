@@ -50,6 +50,7 @@
 [submodule "sample-auth-wagmi-viem"]
 	path = sample-auth-wagmi-viem
 	url = https://github.com/shaloo/sample-auth-wagmi-viem.git
+	branch = main
 [submodule "sample-auth-core"]
 	path = sample-auth-core
 	url = https://github.com/shaloo/sample-auth-core.git

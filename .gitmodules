@@ -5,6 +5,7 @@
 [submodule "sample-auth-social-login"]
 	path = sample-auth-social-login
 	url = https://github.com/shaloo/sample-auth-social-login.git
+	branch = main
 [submodule "sample-auth-firebase"]
 	path = sample-auth-firebase
 	url = https://github.com/shaloo/sample-auth-firebase.git

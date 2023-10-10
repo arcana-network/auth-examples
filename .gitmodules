@@ -57,3 +57,5 @@
 	branch = main
 [submodule "sample-auth-vue"]
 	branch = main
+[submodule "sample-auth-rainbowkit-viem"]
+	branch = main

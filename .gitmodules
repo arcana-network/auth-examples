@@ -21,6 +21,7 @@
 [submodule "sample-auth-nextjs"]
 	path = sample-auth-nextjs
 	url = https://github.com/shaloo/sample-auth-nextjs.git
+	branch = main
 [submodule "sample-auth-html-css-js"]
 	path = sample-auth-html-css-js
 	url = https://github.com/shaloo/sample-auth-html-css-js.git

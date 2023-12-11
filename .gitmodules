@@ -65,3 +65,4 @@
 [submodule "sample-auth-solana"]
 	path = sample-auth-solana
 	url = https://github.com/shaloo/sample-auth-solana.git
+	branch = main

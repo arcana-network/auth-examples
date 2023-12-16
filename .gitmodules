@@ -66,3 +66,7 @@
 	path = sample-auth-solana
 	url = https://github.com/shaloo/sample-auth-solana.git
 	branch = main
+[submodule "sample-gasless-metamask-only"]
+	path = sample-gasless-metamask-only
+	url = https://github.com/shaloo/sample-gasless-metamask-only
+	branch = main

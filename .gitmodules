@@ -70,3 +70,7 @@
 	path = sample-gasless-metamask-only
 	url = https://github.com/shaloo/sample-gasless-metamask-only
 	branch = main
+[submodule "sample-gasless-multi-wallet"]
+	path = sample-gasless-multi-wallet
+	url = https://github.com/shaloo/sample-gasless-multi-wallet.git
+	branch = main

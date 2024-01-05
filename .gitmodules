@@ -78,3 +78,7 @@
 	path = sample-gasless-arcana-only
 	url = https://github.com/shaloo/sample-gasless-arcana-only.git
 	branch = main
+[submodule "sample-auth-firebase-keystore"]
+	path = sample-auth-firebase-keystore
+	url = https://github.com/shaloo/sample-auth-firebase-keystore.git
+	branch = main

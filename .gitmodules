@@ -82,3 +82,6 @@
 	path = sample-auth-firebase-keystore
 	url = https://github.com/shaloo/sample-auth-firebase-keystore.git
 	branch = main
+[submodule "sample-auth-multiversx"]
+	path = sample-auth-multiversx
+	url = https://github.com/shaloo/sample-auth-multiversx.git

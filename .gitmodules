@@ -47,6 +47,7 @@
 [submodule "sample-auth-unity"]
 	path = sample-auth-unity
 	url = https://github.com/shaloo/sample-auth-unity
+	branch = main
 [submodule "sample-auth-rainbow-viem"]
 	path = sample-auth-rainbow-viem
 	url = https://github.com/shaloo/sample-auth-rainbow-viem.git

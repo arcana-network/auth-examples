@@ -89,3 +89,4 @@
 [submodule "sample-auth-wagmi-2"]
 	path = sample-auth-wagmi-2
 	url = https://github.com/shaloo/sample-auth-wagmi-2.git
+	branch = main

@@ -90,3 +90,6 @@
 	path = sample-auth-wagmi-2
 	url = https://github.com/shaloo/sample-auth-wagmi-2.git
 	branch = main
+[submodule "sample-auth-walletconnect"]
+	path = sample-auth-walletconnect
+	url = https://github.com/shaloo/sample-auth-walletconnect.git

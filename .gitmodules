@@ -96,3 +96,6 @@
 [submodule "sample-auth-mvx-custom-login-ui"]
 	path = sample-auth-mvx-custom-login-ui
 	url = https://github.com/hemang-pant/sample-auth-mvx-custom-login-ui
+[submodule "sample-auth-near"]
+	path = sample-auth-near
+	url = https://github.com/hemang-pant/sample-auth-near

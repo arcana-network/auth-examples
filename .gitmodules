@@ -93,3 +93,6 @@
 [submodule "sample-auth-walletconnect"]
 	path = sample-auth-walletconnect
 	url = https://github.com/shaloo/sample-auth-walletconnect.git
+[submodule "sample-auth-mvx-custom-login-ui"]
+	path = sample-auth-mvx-custom-login-ui
+	url = https://github.com/hemang-pant/sample-auth-mvx-custom-login-ui

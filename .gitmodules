@@ -99,3 +99,7 @@
 [submodule "sample-auth-near"]
 	path = sample-auth-near
 	url = https://github.com/hemang-pant/sample-auth-near
+[submodule "sample-auth-react-native-stateManagement"]
+	path = sample-auth-react-native-stateManagement
+	url = https://github.com/hemang-pant/sample-auth-react-native-stateManagement
+	branch = main

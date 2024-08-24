@@ -103,3 +103,7 @@
 	path = sample-auth-react-native-stateManagement
 	url = https://github.com/hemang-pant/sample-auth-react-native-stateManagement
 	branch = main
+[submodule "sample-auth-nextjs-v14"]
+	path = sample-auth-nextjs-v14
+	url = https://github.com/hemang-pant/sample-auth-nextjs-v14
+	branch = main
